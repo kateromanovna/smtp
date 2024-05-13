@@ -1,0 +1,8 @@
+Host: smtp.yandex.ru
+Port: 465
+User:
+Password:
+Domain: @yandex.ru
+To:
+Subject: Привет!
+configuration/mountain.jpg
